@@ -88,7 +88,6 @@
                 android:text="LOGIN"
                 android:textAlignment="center"
                 app:initialCornerAngle="27dp"
-                app:spinning_bar_color="FFF"
                 app:spinning_bar_padding="6dp"
                 app:spinning_bar_width="4dp"/>
 
